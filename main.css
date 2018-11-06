@@ -12,6 +12,17 @@ h1 {
 }
 
 a {
-color: #69CBBB;
+color: #FFA07D
 text-decoration: none;
+}
+
+img {
+display: block;
+margin: 0px auto;
+}
+
+.portfolio-item {
+margin-top: 60px;
+padding: 40px;
+background-color: #80B5FF;
 }
