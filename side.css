@@ -1,0 +1,32 @@
+body {
+  margin: 30px auto;
+  max-width: 1000px;
+  font-family: "Times New Roman", "Comic Sans", sans-serif;
+  line-height: 1.5;
+  padding: 30px 20px;
+  text-align: center;
+  background-color: #62A5DE;
+  background-image: url("Dorais_J_3.jpg");
+  background-size: cover;
+  height: 100%
+}
+
+h1 {
+  padding: 20px 0px 10px 0px;
+}
+
+a {
+color: #E8CD7E;
+text-decoration: none;
+}
+
+img {
+display: block;
+margin: 0px auto;
+}
+
+.portfolio-item {
+margin-top: 60px;
+padding: 40px;
+background-color: #E299A2;
+}
