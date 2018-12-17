@@ -6,7 +6,7 @@ body {
   padding: 30px 20px;
   text-align: center;
   background-color: #62A5DE;
-  background: url(file:///C:/Users/Jon/Desktop/Dorais_J_3.jpg) center center no cover no-repeat fixed;
+  background-image: url("Dorais_J_3.jpg");
   background-size: cover;
   height: 100%
 }
