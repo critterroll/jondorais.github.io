@@ -1,12 +1,12 @@
 body {
   margin: 30px auto;
   max-width: 1000px;
-  font-family: "Courier New, "Comic Sans", sans-serif;
+  font-family: "Courier New";
   line-height: 1.5;
   padding: 30px 20px;
   text-align: center;
   background-color: #62A5DE;
-  background-image: url("Dorais_J_3.jpg");
+  background-image: url("images/Dorais_J_3.jpg");
   background-size: cover;
   height: 100%
 }
