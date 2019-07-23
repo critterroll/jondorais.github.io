@@ -5,7 +5,7 @@ body {
   line-height: 1.5;
   padding: 30px 20px;
   text-align: center;
-  background-color: #62A5DE;
+  background-color: #FFECA2;
   background-image: url("Dorais_J_3.jpg");
   background-size: cover;
   height: 100%
@@ -16,7 +16,7 @@ h1 {
 }
 
 a {
-color: #D19C65;
+color: #62A5DE;
 text-decoration: none;
 }
 
@@ -28,5 +28,5 @@ margin: 0px auto;
 .portfolio-item {
 margin-top: 60px;
 padding: 40px;
-background-color: #E299A2;
+background-color: #E68A97;
 }
