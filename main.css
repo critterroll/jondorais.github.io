@@ -26,13 +26,8 @@ display: block;
 margin: 0px auto;
 }
 
-.contact-item {
-margin-top: 60px;
-padding: 40px;
-background-color: #5ACB9E;
-  
 .portfolio-item {
 margin-top: 60px;
 padding: 40px;
-background-color: #FF9996;
+background-color: #5ACB9E;
 }
