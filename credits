@@ -15,14 +15,24 @@
       <h3><a href="contact.html">Contact Info</a></h3>
     </header>
     <div class="portfolio-item">
-      <iframe src="https://player.vimeo.com/video/487527805" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe> 
-      <h3>Wacky Towns, 2018-2019</h3>
-      <h4>Series Creator, Producer, Lead Animator, Writer, Voice Actor </h4>
-      <p>An award-winning, TV-length pilot about a little town where everyone is encouraged (or forced) to the best person they can be. The animation includes 2D characters in a 3D cel-shaded world.</p>
-      <p>Two original episodes and one mini-short for a potential TV series. All made from a combined cast and crew of over 20 people - all of whom were students.</p>
+      <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/3v7PHnD7I-U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      <h3>Wacky Towns, 2018-2019</h3>
+      <h3>Cassette, dir. Dakota Gregoric, 2020</h3>
+      <h4>Script Supervisor, Colorist</h4>
     </div class="portfolio-item">
     <div class="portfolio-item">
-      <img src="images/2_7.0891.png" height="360" width="640" alt="Jon Dorais' Digital Art">
+      <iframe src="https://player.vimeo.com/video/420577747" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+      <h3>Breakfast - Behind The Scenes, dir. Nick Martinez, 2020</h3>      
+      <h4>Art Production Assistant</h4>
+    </div class="portfolio-item">
+    <div class="portfolio-item">
+      <img src="images/2_7.0891.png" height="634" width="560" alt="Green Ninja.png">
+      <h3>Malinchista - Poster, dir. Flora Rees-Arredondo, 2020</h3>      
+      <h4>Sound Editor, Script Supervisor for the short film's Kickstarter Promo</h4>
+    </div class="portfolio-item">
+    <div class="portfolio-item">
+      <img src="images/2_7.0891.png" height="362" width="560" alt="Green Ninja.png">
+      <h3>The Green Ninja Show Season 5 - Stills, dir. Dave Chai, 2020</h3>      
+      <h4>Production Manager, Compositor</h4>
     </div class="portfolio-item">
   </body>
-</html>
+</html>dd
