@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>(Wackytowns)</title>
+    <link rel="stylesheet" type="text/css" href="main.css">
+  </head>
+  <body>
+    <h1>Jon Dorais</h1>
+    <h4>Production   -    Development   -    Writer    -    Animator    -    Editor</h4>
+    <h2>Wacky Towns</h2>
+    <header>
+      <h3><a href="credits.html">Movie Credits</a></h3>
+      <h3><a href="statement.html">Résumé</a></h3>
+      <h3><a href="contact.html">Contact Info</a></h3>
+    </header>
+    <div class="portfolio-item">
+    <h3>Trailer</h3>
+      <iframe src="https://player.vimeo.com/video/287028757?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=05e251a70a" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Wacky Towns Trailer"></iframe>      
+    <h1>What is WACKY TOWNS?</h1>
+      <p>In May 2018, Jonny Yoon Dorais and Emerson Chan premiered the pilot to Wacky Towns at the San Jose State University FPS Fest. They received the award for Best Picture and later released the pilot on YouTube one month later as they began production for Episode 2. In November 2019, Episode 2 of Wacky Towns was made public as the last episode of the series. A third episode was in the works but was unfortunately cancelled due to the COVID 19 lockdown in 2020. However, more Wacky Towns stories are soon to be expected with an upcoming novel in the works.</p> 
+     <img src="Wacky Towns Book.png" height="732" width="480" alt="Wacky Towns Book">
+    </div>
+    <div class="portfolio-item">
+      <h2>Development</h2>     
+      <h4>The Wacky Towns Team</h4>
+        <img src="meet the team.png" height="720" width="429" alt="crew">
+      <h4>Animatic for Episode 01, Scene 01</h4>        
+        <iframe src="https://player.vimeo.com/video/601333544?title=0&amp;byline=0&amp;portrait=0&amp;speed=0&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=04d48fdee0" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Episode 01 Storyboard - Scene 01"></iframe>   
+      <h4>Behind The Scenes</h4>
+        <iframe src="https://player.vimeo.com/video/309485413?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;h=039ba09f97" width="1920" height="1080" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="Wacky Towns BTS (slideshow)"></iframe>
+      <h4>Score by Austin James Day</h4>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/xB3IbfE2EHo?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
+    <div class="portfolio-item">
+      <h2>Gallery</h2>
+      <img src="WackyTowns.png" height="960" width="540" alt="Wacky Towns Roster">
+      <img src="happyhalloween.png" height="800" width="540" alt="Wacky Towns Halloween">
+     <img src="happythanksgiving.png" height="1024" width="540" alt="Wacky Towns Thanksgiving">
+     <img src="happyholidays.png" height="726" width="540" alt="Wacky Towns December">
+    </div>
+    <h3><a href="portfolio.html">Back to Portfolio</a></h3>
+  </body>
+</html>
