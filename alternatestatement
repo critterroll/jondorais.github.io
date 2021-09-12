@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>(Resume) | statement</title>
+    <link rel="stylesheet" type="text/css" href="main.css">
+  </head>
+  <body>
+    <iframe width="734" height="986" src="Jon Dorais Resume Video Editor.pdf" frameborder="0" allowfullscreen></iframe>
+    <header>
+      <h3><a href="https://www.linkedin.com/in/jondorais/">Click Here to find me on LinkedIn</a></h3>
+      <h3><a href="portfolio.html">Portfolio</a></h3>
+      <h3><a href="contact.html">Contact Info</a></h3>
+      <h2><a href="statement.html">See Production Resume</a></h2>      
+    </header>
+  </body>
+</html
